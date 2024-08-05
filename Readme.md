@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através
-[desse link][(https://www.figma.com/file/TJ2x4dIfYnyPk4t03yINIE/Projeto-02?].
+Você pode visualizar o layout do projeto através desse link -->
+(https://www.figma.com/file/TJ2x4dIfYnyPk4t03yINIE/Projeto-02?].
 É necessario ter uma conta no [Figma](https://www.figma.com).
 
